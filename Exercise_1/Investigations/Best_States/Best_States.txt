@@ -1,4 +1,7 @@
-Best States: Best states were chosen via the average score from the care effectiveness dataset. Because the question asked for best states in terms of care, this was the metric selected. Based on this methodology, the best state in terms of care effectiveness score was DC. Granted, DC is technically a district and not a state, but it is fitting that Maryland follows directly after. Interesting to see so many states in the North East top the list.
+Best States: Best states were chosen via the average score from the care effectiveness dataset. Because the question
+asked for best states in terms of care, this was the metric selected. Based on this methodology, the best state in 
+terms of care effectiveness score was DC. Granted, DC is technically a district and not a state, but it is fitting 
+that Maryland follows directly after. Interesting to see so many states in the North East top the list.
 
 State   Score
 DC	    100.98529411764706
