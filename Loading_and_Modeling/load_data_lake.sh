@@ -27,10 +27,16 @@ tail -n +2 "surveys_responses.csv" > "surveys_responses.csv"
 
 #make directory in HDFS
 hdfs dfs -mkdir /user/w205/hospital_compare
+hdfs dfs -mkdir /user/w205/hospital_compare/hospitals
+hdfs dfs -mkdir /user/w205/hospital_compare/care
+hdfs dfs -mkdir /user/w205/hospital_compare/readmissions
+hdfs dfs -mkdir /user/w205/hospital_compare/measures
+hdfs dfs -mkdir /user/w205/hospital_compare/surveys
+
 
 #move data to HDFS
-hdfs dfs -put hospitals.csv /user/w205/hospital_compare
-hdfs dfs -put effective_care.csv /user/w205/hospital_compare
-hdfs dfs -put readmissions.csv /user/w205/hospital_compare
-hdfs dfs -put measures.csv /user/w205/hospital_compare
-hdfs dfs -put surveys_responses.csv /user/w205/hospital_compare
+hdfs dfs -put hospitals.csv /user/w205/hospital_compare/hospitals
+hdfs dfs -put effective_care.csv /user/w205/hospital_compare/care
+hdfs dfs -put readmissions.csv /user/w205/hospital_compare/readmissions
+hdfs dfs -put measures.csv /user/w205/hospital_compare/measures
+hdfs dfs -put surveys_responses.csv /user/w205/hospital_compare/surveys
