@@ -9,7 +9,7 @@ is reflective of the spread that occurs within a given treatment across hospital
 Measure                                                                               Avg              Min Max  Var
 Venous Thromboembolism (VTE) Prophylaxis                                              94.5490774907749	99	0	  99.0
 Warfarin therapy discharge instructions                                               88.8820907617504	99	0	  99.0
-Unfractionated heparin with dosages/platelet count monitoring	                        98.8078239608802	99	0	  99.0
+Unfractionated heparin with dosages/platelet count monitoring                         98.8078239608802	99	0	  99.0
 Surgery Patients Received Venous Thromboembolism Prophylaxis                          98.85677749360613	99	0	  99.0
 ICU venous thromboembolism prophylaxis                                                94.81049069373942	99	0	  99.0
 Venous thromboembolism prophylaxis                                                    89.11431805319751	99	0	  99.0
