@@ -1,1 +1,24 @@
 Hospitals and Patients:
+To measure weather average scores for hospital quality or procedural variability are correlated
+with patient responses, I used the HCAHPS base score as a proxy for patient reponses. 
+This score combines the metrics from the eight dimensions of the questionnaire to create a base
+score for an institution. Additional documentation was found here: 
+
+http://hcahpsonline.org/files/HCAHPS%20Fact%20Sheet%20May%202012.pdf
+
+To see whether average scores of hospital quality was correlated with patient survey responses,
+I correlated the HCAHPS base score with the average effective care score of hospitals.
+
+Results showed a weak negative correlation between these two items, specifically,
+                              -.218317.
+                            
+To see whether variation of hospital quality was correlated with patient survey responses,
+I correlated the HCAHPS base score with the variation of effective care scores for each hospital.
+
+Results showed a correlation between these two items, specifically, 
+                              -.436052.
+                              
+This indicates that, on average, patient scores tend to be lower when the care tends to be more 
+variable. This is interesting, but makes sense given that a patient could have only one bad 
+experience that greatly negatively impacts their perception of a hospital. Essentially, only
+one very negative experience out of 10 procedures could leave the patient unsatisfied.
