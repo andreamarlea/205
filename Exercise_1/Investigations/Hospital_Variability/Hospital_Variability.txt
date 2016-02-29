@@ -8,7 +8,7 @@ is reflective of the spread that occurs within a given treatment across hospital
 
 ID    Measure                                                                               Avg              Min Max  Var
 STK_1	Venous Thromboembolism (VTE) Prophylaxis                                              94.5490774907749	99	0	  99.0
-VTE_5	Warfarin therapy discharge instructions	                                              88.8820907617504	99	0	  99.0
+VTE_5	Warfarin therapy discharge instructions                                               88.8820907617504	99	0	  99.0
 VTE_4	Unfractionated heparin with dosages/platelet count monitoring	                        98.8078239608802	99	0	  99.0
 SCIP_VTE_2	Surgery Patients Who Received Venous Thromboembolism Prophylaxis                98.85677749360613	99	0	  99.0
 VTE_2	ICU venous thromboembolism prophylaxis                                                94.81049069373942	99	0	  99.0
