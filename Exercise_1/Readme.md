@@ -1,6 +1,7 @@
 This is Marlea Gwinn's Exercise 1 Submission for W205 at the UC Berkeley Master's of Information and Data Science
 
 There are three primary folders:
+
     Loading and Modeling:   This folder contains the programs for downloading the data and 
                             loading it into the HDFS.
                             
