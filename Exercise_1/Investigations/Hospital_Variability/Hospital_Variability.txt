@@ -6,14 +6,14 @@ The effective care dataset sorted procedures with corresponding scores for vario
 between hospitals, I took the maximum score, the minimum score, and computed a range for each procedure. This range
 is reflective of the spread that occurs within a given treatment across hospitals. 
 
-ID    Measure                                                                               Avg              Min Max  Var
-STK_1	Venous Thromboembolism (VTE) Prophylaxis                                              94.5490774907749	99	0	  99.0
-VTE_5	Warfarin therapy discharge instructions                                               88.8820907617504	99	0	  99.0
-VTE_4	Unfractionated heparin with dosages/platelet count monitoring	                        98.8078239608802	99	0	  99.0
-SCIP_VTE_2	Surgery Patients Who Received Venous Thromboembolism Prophylaxis                98.85677749360613	99	0	  99.0
-VTE_2	ICU venous thromboembolism prophylaxis                                                94.81049069373942	99	0	  99.0
-VTE_1	Venous thromboembolism prophylaxis                                                    89.11431805319751	99	0	  99.0
-STK_8	Stroke Education                                                                      90.53962900505903	99	0	  99.0
-ED_2b	ED2	                                                                                  98.51859267734554	99	0	  99.0
-STK_5	Antithrombotic Therapy by End of Hospital Day 2	                                      97.76672897196262	99	0	  99.0
-SCIP_INF_1	Prophylactic antibiotic received within 1 hour prior to surgical incision       97.97899884925201	99	0	  99.0
+Measure                                                                               Avg              Min Max  Var
+Venous Thromboembolism (VTE) Prophylaxis                                              94.5490774907749	99	0	  99.0
+Warfarin therapy discharge instructions                                               88.8820907617504	99	0	  99.0
+Unfractionated heparin with dosages/platelet count monitoring	                        98.8078239608802	99	0	  99.0
+Surgery Patients Received Venous Thromboembolism Prophylaxis                          98.85677749360613	99	0	  99.0
+ICU venous thromboembolism prophylaxis                                                94.81049069373942	99	0	  99.0
+Venous thromboembolism prophylaxis                                                    89.11431805319751	99	0	  99.0
+Stroke Education                                                                      90.53962900505903	99	0	  99.0
+ED2	                                                                                  98.51859267734554	99	0	  99.0
+Antithrombotic Therapy by End of Hospital Day 2	                                      97.76672897196262	99	0	  99.0
+Prophylactic antibiotic received within 1 hour prior to surgical incision             97.97899884925201	99	0	  99.0
