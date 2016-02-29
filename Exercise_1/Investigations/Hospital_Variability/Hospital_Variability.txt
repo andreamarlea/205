@@ -14,6 +14,6 @@ Surgery Patients Received Venous Thromboembolism Prophylaxis                    
 ICU venous thromboembolism prophylaxis                                                94.81049069373942	99	0	  99.0
 Venous thromboembolism prophylaxis                                                    89.11431805319751	99	0	  99.0
 Stroke Education                                                                      90.53962900505903	99	0	  99.0
-ED2	                                                                                  98.51859267734554	99	0	  99.0
+ED2                                                                                   98.51859267734554	99	0	  99.0
 Antithrombotic Therapy by End of Hospital Day 2	                                      97.76672897196262	99	0	  99.0
 Prophylactic antibiotic received within 1 hour prior to surgical incision             97.97899884925201	99	0	  99.0
