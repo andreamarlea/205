@@ -6,7 +6,7 @@ The effective care dataset sorted procedures with corresponding scores for vario
 between hospitals, I took the maximum score, the minimum score, and computed a range for each procedure. This range
 is reflective of the spread that occurs within a given treatment across hospitals. 
 
-Measure                                                                               Avg              Min Max  Var
+Measure                                                                               Avg              Min Max    Var
 Venous Thromboembolism (VTE) Prophylaxis                                              94.5490774907749	99	0	  99.0
 Warfarin therapy discharge instructions                                               88.8820907617504	99	0	  99.0
 Unfractionated heparin with dosages/platelet count monitoring                         98.8078239608802	99	0	  99.0
