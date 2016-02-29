@@ -28,7 +28,6 @@ hdfs dfs -mkdir /user/w205/hospital_compare/readmissions
 hdfs dfs -mkdir /user/w205/hospital_compare/measures
 hdfs dfs -mkdir /user/w205/hospital_compare/surveys
 
-
 #move data to HDFS
 hdfs dfs -put hospitals.csv /user/w205/hospital_compare/hospitals
 hdfs dfs -put effective_care.csv /user/w205/hospital_compare/care
