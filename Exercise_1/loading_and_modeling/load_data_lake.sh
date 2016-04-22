@@ -2,7 +2,7 @@
 
 #Starting Hadoop & Postgres
 /root/start-hadoop.sh
-/data/start_postgrest.sh
+/data/start_postgres.sh
 
 #Switch user from root
 su - w205
